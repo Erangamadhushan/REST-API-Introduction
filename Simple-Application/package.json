@@ -1,0 +1,15 @@
+{
+  "name": "simple-application",
+  "version": "1.0.0",
+  "description": "**step 1**:\r Create the NodeJS project by using the following command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
