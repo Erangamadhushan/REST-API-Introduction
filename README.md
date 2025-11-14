@@ -3,7 +3,8 @@ Read Article with <a href='https://medium.com/@erangamadhushann956/introduction-
 Building a Simple REST API using<a href="https://github.com/Erangamadhushan/REST-API-Introduction/tree/main/Simple-Application"> Node.js and Express</a>
 
 -> [RESTful API Structure and Design](./Documents/Structure-And-Design.md) <br/>
--> [Building REST APIs with Node.js and Express](./Documents/Build-REST-API's.md)
+-> [Building REST APIs with Node.js and Express](./Documents/Build-REST-API's.md)<br/>
+-> [Node.js API Authentication Guide](./Documents/API-Authentication.md)
 
 
 #### A REST API is the most common standard used between Clients (a person or application) who want to access information from the web from Servers (application or database) who have access to that information.
